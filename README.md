@@ -30,7 +30,7 @@ sign-language-trainer
 │   │── public
 │   │── src
 │   │   │── components
-│   │   │   │── CameraFeed.js
+│   │   │   │── CameraFeed.js  
 │   │   │   │── ImageDisplay.js
 │   │   │   │── Confetti.js
 │   │   │── App.css
